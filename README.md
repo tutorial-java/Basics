@@ -1,2 +1,2 @@
-# Table of Contents for Tutorial Java Basics
+# Table of Contents
 
